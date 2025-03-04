@@ -19604,7 +19604,7 @@ header.header-three .sub-dropdown .submenu.third-lvl.base {
   align-items: center;
   gap: 7px;
   color: var(--color-body);
-  font-size: 16px;
+  font-size: 13px;
 }
 .with-megamenu .submenu .single-menu li .industries svg path {
   stroke: #6D6D6D;
